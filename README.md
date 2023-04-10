@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @aniketworks
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning
-   + **Python**
-   + **SQL**
-   + **Excel**
-   + **Tableau**
+- 👀 Working as Business Analyst
+- 🌱 I’m currently enhancing
+   - 🐍 **Python**
+   - 🛢️ **SQL**
+   - 📖 **Excel**
+   - 📈 **Tableau**
 - 📫 Reach Me : aniket.work@outlook.com
 
 <!---
